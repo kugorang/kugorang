@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/kugorang/badges/community)](https://community.vaunt.dev/board/kugorang)
+
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/kugorang/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
