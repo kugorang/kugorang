@@ -20,12 +20,5 @@ Here are some ideas to get you started:
 
 [![kugorang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kugorang&show_icons=true&theme=dark&locale=kr#gh-dark-mode-only)](https://github.com/kugorang/github-readme-stats#gh-dark-mode-only)
 [![kugorang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kugorang&show_icons=true&theme=default&locale=kr#gh-light-mode-only)](https://github.com/kugorang/github-readme-stats#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kugorang&theme=dark&locale=ko&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=485&fire=EB5454&sideNums=EB5454)](https://git.io/streak-stats)
-
-<div>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/kugorang/contributions?format=svg&private=true" width="485" title="Includes public and private contributions" />
-    </a>
-</div>
 
 ![3d-contrib-kugorang](./profile-3d-contrib/profile-green-animate.svg)
