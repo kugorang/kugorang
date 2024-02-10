@@ -4,6 +4,6 @@
 
 [![kugorang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kugorang&show_icons=true&theme=dark&locale=kr#gh-dark-mode-only)](https://github.com/kugorang/github-readme-stats#gh-dark-mode-only)
 [![kugorang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kugorang&show_icons=true&theme=default&locale=kr#gh-light-mode-only)](https://github.com/kugorang/github-readme-stats#gh-light-mode-only)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kugorang&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kugorang&theme=vue-dark)](https://kugora.ng/33)
 
 ![3d-contrib-kugorang](./profile-3d-contrib/profile-night-green.svg)
