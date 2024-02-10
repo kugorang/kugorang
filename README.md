@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/kugorang/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+        <img src="https://api.vaunt.dev/v1/github/entities/kugorang/contributions?format=svg&private=true" width="480" title="Includes public and private contributions" />
     </a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kugorang&theme=dark&locale=ko&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=480&fire=EB5454&sideNums=EB5454)](https://git.io/streak-stats)
