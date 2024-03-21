@@ -5,5 +5,3 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kugorang)](https://solved.ac/kugorang)
 
 ![3d-contrib-kugorang](./profile-3d-contrib/profile-night-green.svg)
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=kugorang&theme=vue-dark)](https://kugora.ng)
