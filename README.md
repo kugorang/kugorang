@@ -4,4 +4,4 @@
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/kugorang/badges/community)](https://community.vaunt.dev/board/kugorang)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kugorang)](https://solved.ac/kugorang)
 
-![3d-contrib-kugorang](./profile-3d-contrib/profile-night-green.svg)
+![3d-contrib-kugorang](./profile-3d-contrib/profile-night-rainbow.svg)
