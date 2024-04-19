@@ -4,4 +4,8 @@
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/kugorang/badges/community)](https://community.vaunt.dev/board/kugorang)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kugorang)](https://solved.ac/kugorang)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/kugorang" width="1000" height="120"/>
+</a>
+
 ![3d-contrib-kugorang](./profile-3d-contrib/profile-night-rainbow.svg)
