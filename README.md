@@ -5,7 +5,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kugorang)](https://solved.ac/kugorang)
 ![3d-contrib-kugorang](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<a href="https://www.gitanimals.org/ko_KR">
+<a href="https://www.gitanimals.org/ko_KR" target="_blank" rel="noopener noreferrer">
 <img
   src="https://render.gitanimals.org/farms/kugorang"
   width="100%"
