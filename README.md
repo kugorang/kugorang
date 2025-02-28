@@ -5,7 +5,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kugorang)](https://solved.ac/kugorang)
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/kugorang/badges/community)](https://community.vaunt.dev/board/kugorang)
 
-![3d-contrib-kugorang](./profile-3d-contrib/profile-night-rainbow.svg)
+![3d-contrib-kugorang](./profile-3d-contrib/profile-season-animate.svg)
 
 <a href="https://www.gitanimals.org/ko_KR" target="_blank" rel="noopener noreferrer">
 <img
