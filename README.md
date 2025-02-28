@@ -10,6 +10,6 @@
 <a href="https://www.gitanimals.org/ko_KR" target="_blank" rel="noopener noreferrer">
 <img
   src="https://render.gitanimals.org/farms/kugorang"
-  width="95%"
+  width="99%"
 />
 </a>
